@@ -11,3 +11,10 @@ In this project I used and deepen my skills about:
 - function parameters
 - JSON
 - objects in arrays
+
+
+
+(!The save tab button only works if you use the programm as a chrome extension, because it uses chromes api to get the tab url!)
+You can check the project out here quickly 
+https://robinho1997.github.io/chrome-extension_leads-tracker/
+
